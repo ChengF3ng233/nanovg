@@ -1,4 +1,4 @@
-*This project is not actively maintained.*
+*Check out my repository `Aluminium` and find the folder `libs` for lwjgl-nanovg build*
 
 NanoVG
 ==========
